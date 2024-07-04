@@ -1,0 +1,1 @@
+# Function-to-search-for-a-specific-string-in-all-scripts-in-the-console
